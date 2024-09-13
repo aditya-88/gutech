@@ -1,0 +1,5 @@
+# PIP requirements for the project
+
+pandas
+argparse
+watchdog

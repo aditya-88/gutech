@@ -6,6 +6,10 @@ The program looks for the `samples.txt` file in the `current folder/data` by def
 
 It is configured to look for any modifications to the file every second, but can be configured to run weekly using the Python `watchdog` module.
 
+```bash
+python3 qcTask.py /path/to/samples.txt
+```
+
 ## Requirements ##
 
 ```bash

@@ -1,3 +1,4 @@
+#!/bin/env python3
 import pandas as pd
 import smtplib
 from email.mime.text import MIMEText
